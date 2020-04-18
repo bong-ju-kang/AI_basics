@@ -1,0 +1,15 @@
+#,변수,유형,설명,한글 설명
+1,CRIM   ,numeric,per capita crime rate by town,도시별 1인당 범죄율
+2,ZN     ,numeric,"proportion of residential land zoned for lots over 25,000 sq.ft.","25,000 sq.ft. 이상의 로트용 구역토지 비율"
+3,INDUS  ,numeric,proportion of non-retail business acres per town,도시별 비 소매 사업 땅의 비율
+4,CHAS   ,categorical,Charles River dummy variable (= 1 if tract bounds river; 0 otherwise),Charles River 경계여부
+5,NOX    ,numeric,nitric oxides concentration parts per 10 million,천만당 산화질소 농도
+6,RM     ,numeric,average number of rooms per dwelling,주거당 평균 방수
+7,AGE    ,numeric,proportion of owner-occupied units built prior to 1940,1940년 이전에 건설된 소유주 차지 비율
+8,DIS    ,numeric,weighted distances to five Boston employment centres,보스턴 고용 센터 5 곳까지의 가중치 거리
+9,RAD    ,numeric,index of accessibility to radial highways,방사형 고속도로 접근성 지수
+10,TAX    ,numeric,"full-value property-tax rate per $10,000","$ 10,000 당 완전 가치 재산세 세율"
+11,PTRATIO,numeric,pupil-teacher ratio by town,도시별 학생 - 교사 비율
+12,B      ,numeric,1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town,100(도시별 흑인 비율-0.63)^2
+13,LSTAT  ,numeric,% lower status of the population,인구 감소 % 상태
+14,MEDV   ,numeric,Median value of owner-occupied homes in $1000's,1000 달러 단위 주택 소유 주택의 중간 값
